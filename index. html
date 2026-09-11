@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f6f8;
+            color: #333;
+        }
+
+        header {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 40px;
+        }
+
+        header p {
+            font-size: 18px;
+        }
+
+        section {
+            max-width: 900px;
+            margin: 25px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+        }
+
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 8px;
+        }
+
+        .project {
+            background: #f1f3f5;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            background: #222;
+            color: white;
+            padding: 20px;
+        }
+
+        a {
+            color: #0066cc;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>M. Ghehna</h1>
+    <p>B.Tech CSE-AIML Student</p>
+    <p>Python | AI & ML | Web Development</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        Hello! I am M. Ghehna, a B.Tech Computer Science and
+        Engineering student specializing in Artificial Intelligence
+        and Machine Learning. I am interested in programming,
+        artificial intelligence and developing useful projects.
+    </p>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p><b>B.Tech CSE-AIML</b></p>
+    <p>Currently pursuing my Bachelor's degree.</p>
+
+    <p><b>Intermediate - MPC</b></p>
+    <p>Gayatri College</p>
+
+    <p><b>School</b></p>
+    <p>Nasr School (ICSE)</p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>Artificial Intelligence</li>
+        <li>Machine Learning</li>
+        <li>HTML & CSS</li>
+        <li>GitHub</li>
+        <li>Data Analysis</li>
+    </ul>
+</section>
+
+<section>
+    <h2>My Projects</h2>
+
+    <div class="project">
+        <h3>🌊 Aqua Monitor</h3>
+        <p>
+            A project focused on monitoring water-related information
+            and helping improve water management.
+        </p>
+    </div>
+
+    <div class="project">
+        <h3>🐍 Python Mini Projects</h3>
+        <p>
+            Collection of Python programs and mini projects created
+            while learning programming.
+        </p>
+    </div>
+
+    <div class="project">
+        <h3>🌧️ Flood Detection</h3>
+        <p>
+            An AI-based project idea for detecting and managing
+            flood situations.
+        </p>
+    </div>
+
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: <b>Your email here</b></p>
+    <p>GitHub: <b>ghennadurga-wq</b></p>
+</section>
+
+<footer>
+    <p>© 2026 M. Ghehna | My Portfolio</p>
+</footer>
+
+</body>
+</html>
