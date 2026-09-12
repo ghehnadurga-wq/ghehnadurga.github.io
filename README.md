@@ -1,5 +1,4 @@
-# FLOODGUARD AI
-🌊 FLOODGUARD AI
+# 🌊 FLOODGUARD AI
 🚨 AI-Powered Flood Detection & Smart Open Drainage Management System
 🌍 About the Project
 FloodGuard AI is a smart Python-based disaster management system designed to detect flood risks early and improve open drainage management.
